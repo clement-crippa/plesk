@@ -1,0 +1,47 @@
+body{
+    background-color: lightblue;
+}
+pre{
+    font-size: 18px;
+    font-family: 'Arial Nova', serif;
+}
+h2{
+    background-color: lightslategrey;
+    font-family: 'OpenSans', monospace;
+    font-size: 25px;
+    text-align: center;
+    letter-spacing: 8px;
+    border-radius: 60%;
+}
+
+.chien{
+    width:120px;
+    border-radius: 100%;
+    float: right;
+}
+.redirection{
+    width: 64px;
+    float: right;
+}
+
+.ytb{
+    display: inline-block;
+    cursor: pointer;
+    width: 120px;
+}
+
+#cadre{
+    border-radius: 100px;
+    border: solid cadetblue;
+    border-width: 4px;
+    padding: 8px;
+    text-align: center;
+    text-shadow: 2px 4px lightslategrey;
+    font-family: 'Bahnschrift', serif;
+}
+
+.exp-cadre{
+    border-radius: 8px;
+    border: solid cadetblue;
+    border-width: 2px;
+}
